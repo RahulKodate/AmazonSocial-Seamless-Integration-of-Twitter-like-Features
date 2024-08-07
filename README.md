@@ -4,6 +4,12 @@
 
 AmazonSocial is an initiative aimed at integrating Twitter-like features into the Amazon app to enhance user engagement amidst Twitter's recent instability. By leveraging familiar social media elements, the project seeks to provide a seamless experience for Amazon users while maintaining the core identity of the app.
 
+## Video Overview
+
+For a detailed visual overview of the AmazonSocial project, watch the video here:
+
+[AmazonSocial Video Overview](https://youtu.be/HWwLRFsHRMY)
+
 ## Goals
 
 In light of Twitter's recent upheavals—including executive changes, layoffs, and uncertain future directions—AmazonSocial aims to capture the opportunity to attract Twitter users by incorporating familiar social media functionalities into the Amazon app. The goal is to blend these new features with the existing Amazon experience to avoid confusion and provide added value.
@@ -79,13 +85,6 @@ In light of Twitter's recent upheavals—including executive changes, layoffs, a
 **Conclusion:**
 
 The integration of Twitter-like features within the Amazon app should prioritize a seamless and intuitive experience, catering to both existing Amazon users and those familiar with Twitter. Ongoing adjustments based on usability testing will help align the features with user needs and improve overall functionality.
-
-## Video Overview
-
-For a detailed visual overview of the AmazonSocial project, watch the video here:
-
-[AmazonSocial Video Overview](https://youtu.be/HWwLRFsHRMY)
-
 
 ---
 
