@@ -80,6 +80,13 @@ In light of Twitter's recent upheavals—including executive changes, layoffs, a
 
 The integration of Twitter-like features within the Amazon app should prioritize a seamless and intuitive experience, catering to both existing Amazon users and those familiar with Twitter. Ongoing adjustments based on usability testing will help align the features with user needs and improve overall functionality.
 
+## Video Overview
+
+For a detailed visual overview of the AmazonSocial project, watch the video here:
+
+[AmazonSocial Video Overview](https://youtu.be/HWwLRFsHRMY)
+
+
 ---
 
 Thank you for exploring AmazonSocial!
